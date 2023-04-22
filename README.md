@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hi there, I am Jose Armando 👋
 ![1678686322856](https://user-images.githubusercontent.com/66760303/233764110-f19aec58-6264-4b32-94ba-d1d7c43d0e1f.png)
-
 ```javascript
 const thai = {
   code: [Javascript, Typescript, HTML,CSS],
   tools: [React, Redux, Node, Context, Styled-Components, Sass, Angular],
 }
 ```
-
+[![ccama22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccama22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccama22&hide_progress=true)](https://github.com/ccama22/github-readme-stats)
 <!--
 **ccama22/ccama22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
