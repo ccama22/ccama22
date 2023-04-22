@@ -1,4 +1,12 @@
 ### Hi there 👋
+![1678686322856](https://user-images.githubusercontent.com/66760303/233764110-f19aec58-6264-4b32-94ba-d1d7c43d0e1f.png)
+
+```javascript
+const thai = {
+  code: [Javascript, Typescript, HTML,CSS],
+  tools: [React, Redux, Node, Context, Styled-Components, Sass, Angular],
+}
+```
 
 <!--
 **ccama22/ccama22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
