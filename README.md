@@ -3,6 +3,7 @@
 
 <br />
 
+- 🔭 i´m currently working at [ConoceLat](https://github.com/No-Country/c10-57-t-reactchallenge-mern)
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; I am a Bachelor of Systems Engineering and Computer Science.
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
