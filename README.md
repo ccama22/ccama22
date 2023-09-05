@@ -30,10 +30,6 @@
 
 <br/>
 
-[![ccama22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccama22)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccama22&hide_progress=true)](https://github.com/ccama22/github-readme-stats)
-
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
